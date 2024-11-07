@@ -32,6 +32,11 @@ This project uses the following technologies:
    cd pure-beauty
 4. Open `index.html` in your browser to view the website.
 
+## Live Website
+
+Check out the live version of the website here: [Pure Beauty](https://taupe-semolina-fa918a.netlify.app/)
+
+
 ## Contact
 
 For any questions, please contact:
