@@ -29,7 +29,7 @@ This project uses the following technologies:
 2. Navigate to the project folder:
    
    ```bash
-   cd pure-beauty
+   cd Bootstrap-Beauty-Website
 4. Open `index.html` in your browser to view the website.
 
 ## Live Website
